@@ -19,7 +19,7 @@ then
 	rm -rf package.json
 	rm -rf package-lock.json
 	rm -rf README.md
-	rm -rf installer-for-Windows.bat
+	rm -rf Installer-for-Windows.bat
 	read -p "Installation complete. Press any key to continue ..."
 	rm -- "$0"
 else
