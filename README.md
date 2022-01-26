@@ -29,20 +29,24 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 # Support / Community:
 [Discord](https://discord.gg/ADAdMfug)
 
-## How to install:
+## How to install in Windows:
 - Download and install [NodeJs](https://nodejs.org/it/download/)
 - Download and install [Git](https://git-scm.com/download/win)
 - Download the bot installer in this repository.
-- Click Installer-for-Windows.bat for windows 
-or 
-- Click Installer-for-Linux.sh for Linux/Mac
+- Click Installer-for-Windows.bat for windows  
+
 - Input keycode provided by purchasing the bot. 
 
-## How to install using Terminal or cmd
-- Download and install [NodeJs](https://nodejs.org/it/download/)
-- Download and install [Git](https://git-scm.com/download/win)
-- For window type on CMD `Installer-for-Windows.bat`
-- For Linux type on terminal `sh Installer-for-Linux.sh`
+## How to install in Linux (Ubuntu)
+- Open terminal and install Nodejs by typing `curl -sL https://deb.nodesource.com/setup_17.x -o nodesource_setup.sh` 
+- Inspect the contents of the downloaded script with nano (or your preferred text editor): `nano nodesource_setup.sh`
+- When you are satisfied that the script is safe to run, exit your editor, then run the script by typing `sudo bash nodesource_setup.sh`
+- Once done, type `sudo apt install nodejs`
+- Check if the version of your nodejs by typing `node -v`
+##Installing git: 
+- Install git by typing `sudo apt-get install git`
+- clone the repo. 
+- For Linux type on terminal `bash Installer-for-Linux.sh`
 - Input keycode provided by purchasing the bot. 
 
 
