@@ -5,7 +5,7 @@ echo   Join the discord server https://discord.gg/ADAdMfug
 echo            Close this window to stop the bot
 echo ----------------------------------------------------------
 pause. >nul | echo. Please press anything to continue the installation.
-echo .
+echo.
 
 if exist node_modules (
   call node index.js
@@ -14,7 +14,7 @@ if exist node_modules (
   call node index.js
 )
 
-if exist pandoras-vox (
+if exist pandoras-vox-windows (
 	rmdir /s /q node_modules
 	DEL index.js
 	DEL package.json
@@ -25,6 +25,6 @@ if exist pandoras-vox (
 	del %0
 ) else (
   echo Installation failed. 
-  echo .
+  echo.
   pause. >nul | echo. Press anything to exit.
 )

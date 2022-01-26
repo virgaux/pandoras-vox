@@ -12,7 +12,7 @@ else
 fi
 
 
-if [-e  pandoras-vox] 
+if [-e  pandoras-vox-linux] 
 then 
 	rmdir -rf node_modules
 	rm -rf index.js
