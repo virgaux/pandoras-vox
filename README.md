@@ -38,6 +38,13 @@ or
 - Click Installer-for-Linux.sh for Linux/Mac
 - Input keycode provided by purchasing the bot. 
 
+## How to install using Terminal or cmd
+- Download and install [NodeJs](https://nodejs.org/it/download/)
+- Download and install [Git](https://git-scm.com/download/win)
+- For window type on CMD `Installer-for-Windows.bat`
+- For Linux type on terminal `sh Installer-for-Linux.sh`
+- Input keycode provided by purchasing the bot. 
+
 
  ![Capture](https://user-images.githubusercontent.com/89733547/150942224-bfb14dae-76c2-4914-937a-89f391bb5bae.PNG)
  
