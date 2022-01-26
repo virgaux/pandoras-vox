@@ -32,7 +32,7 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 ## How to install:
 - Download and install [NodeJs](https://nodejs.org/it/download/)
 - Download and install [Git](https://git-scm.com/download/win)
-- Download the bot.
+- Download the bot installer in this repository.
 - Click Installer-for-Windows.bat for windows 
 or 
 - Click Installer-for-Linux.sh for Linux/Mac
