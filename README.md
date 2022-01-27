@@ -11,7 +11,7 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 - Can use 2 API.(jones and lostvoid API compatible)
 - If main API got an error or reach rate limit, bot will use the fallback api
 - full telegram command (no need to edit env to change env settings ala vcdragon bot). 
-- Can use in mobile phone as long as it have internet.
+- **Can use in mobile phone as long as it have internet.**
 - Have forced element and have a certain limit until when the bot will use focred element. Good for those who have favorite element to use. 
 - Have backup feature for local history incase main local got corrupted. 
 - Local history can store upto 4GB of data unlike on the public bot, it can only store upto 500MB.
