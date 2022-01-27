@@ -39,14 +39,14 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 
 ## How to install in Linux (Ubuntu)
 
-*Installing Nodejs
+*Installing Nodejs*
 - Open terminal and install Nodejs by typing `curl -sL https://deb.nodesource.com/setup_17.x -o nodesource_setup.sh` 
 - Inspect the contents of the downloaded script with nano (or your preferred text editor): `nano nodesource_setup.sh`
 - When you are satisfied that the script is safe to run, exit your editor, then run the script by typing `sudo bash nodesource_setup.sh`
 - Once done, type `sudo apt install nodejs`
 - Check if the version of your nodejs by typing `node -v`
 - 
-*Installing git:
+*Installing git:*
 - Install git by typing `sudo apt-get install git`
 - Install the repo by typing `git clone https://github.com/virgaux/pandoras-vox.git` 
 - For Linux type on terminal `bash Installer-for-Linux.sh`
