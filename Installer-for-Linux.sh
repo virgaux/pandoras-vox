@@ -1,9 +1,10 @@
+#!/bin/bash
 echo "----------------------------------------------------------"
 echo "       Welcome to Pandoras Vox created by Virgaux."
 echo "  Join the discord server https://discord.gg/ADAdMfug"
 echo "           Close this window to stop the bot"
 echo "----------------------------------------------------------"
-if [ -d  "./node_modules" ]
+if [[ -d  "./node_modules" ]]
 then 
 	node index.js
 else 
@@ -12,7 +13,7 @@ else
 fi
 
 
-if [ -d  "./pandoras-vox-linux" ]
+if [[ -d  "./pandoras-vox-linux" ]]
 then 
 	rm -rf node_modules
 	rm -rf index.js
