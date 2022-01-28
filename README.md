@@ -86,7 +86,7 @@ Check the License for more details.
 - A: That's fine, you are not being forced to use this bot. 
 
 - **Q: I want the unencrypted version of the bot.** 
-- A: That is possible as long as you will buy the unencrypted version which is for sale. 
+- A: That is possible as long as you will buy the unencrypted version which. 
 
 - **Q: Does the bot guarantee my absolute win in the game?** 
 - A: No. The bot winning percentage is from 45%-66% only. Playing manually still the best way to win. Remember that the bot win percentage only relies on the data you feed to it and the cards you have. The bot don't do miracle unfortunately. 
@@ -105,3 +105,12 @@ Check the License for more details.
 
 - **Q: My question is not here. whom should I contact?** 
 - A: Visit the [discord](https://discord.gg/ADAdMfug) if you have more question. I will try to answer your question as much as I can. 
+
+- **Q: Do you have an aftersale support?**
+- A: Yes, as long as I can answer your question or solve your problem. 
+
+- **Q: Is this the best bot for the game?**
+- A: I believe no and depends on what you really need. There are some limitation of this bot but the Developer is working hard to improve it more. This bot was created not to exploit the game but to help those people to play thier accounts automatically.
+
+- **Q: If I buy this bot, is my profit guaranteed?**
+- A: That still depends on your accounts. The better the card collections and data you have, the higher the percentage you win per game. Again, this bot can't do miracles. 
