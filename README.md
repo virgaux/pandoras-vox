@@ -33,23 +33,26 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 - Download and install [NodeJs](https://nodejs.org/it/download/)
 - Download and install [Git](https://git-scm.com/download/win)
 - Download the bot installer in this repository.
-- Click Installer-for-Windows.bat for windows  
-
+- Click Windows_Installer.bat for windows  
 - Input keycode provided by purchasing the bot. 
 
 ## How to install in Linux (Ubuntu)
 
-*Installing Nodejs*
-- Open terminal and install Nodejs by typing `curl -sL https://deb.nodesource.com/setup_17.x -o nodesource_setup.sh` 
-- Inspect the contents of the downloaded script with nano (or your preferred text editor): `nano nodesource_setup.sh`
-- When you are satisfied that the script is safe to run, exit your editor, then run the script by typing `sudo bash nodesource_setup.sh`
+**Installing chromium browser**
+- Open terminal and type `sudo apt-get chromium-browser`
+
+**Installing Nodejs and npm**
+- Install Nodejs by typing `curl -sL https://deb.nodesource.com/setup_17.x | sudo -E bash -` 
+ *If you don't have curl, install curl first by typing `sudo apt-get curl` then install Nodejs*
 - Once done, type `sudo apt install nodejs`
-- Check if the version of your nodejs by typing `node -v`
-- 
-*Installing git:*
+- Check if the version of your nodejs is the latest one by typing `node -v` and `npm -v`
+- For certain packages to run, need to run the command by typing `sudo apt install build-essential`
+
+
+**Installing git and VIP bot**
 - Install git by typing `sudo apt-get install git`
 - Install the repo by typing `git clone https://github.com/virgaux/pandoras-vox.git` 
-- For Linux type on terminal `bash Installer-for-Linux.sh`
+- For Linux type on terminal `bash Linux_Installer.sh`
 - Input keycode provided by purchasing the bot. 
 
 
@@ -59,4 +62,31 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 - Done! 
 
 # How to purchase?
-- Please message the Virgaux in discord.
+- Please message me in [discord](https://discord.gg/ADAdMfug).
+
+# Questions
+**Q: Is my account protected?** 
+A: Yes, your account protected as there are no malicious content of this bot. 
+
+**Q: Will my account can be hacked?** 
+A: For this bot, No. This bot was program not to send out any information of the user. However, if you let someone to tinker your bot, most likely they can put a hack on it. 
+
+**Q: If every I experience any loss of asset from the game, will the developer liable for my loss?** 
+A: No. As per license of this bot:
+*IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)*
+Check the License for more details. 
+
+**Q: Why the codes/scripts are encrypted? Is the developer hiding something?** 
+A: This bot codes are encrypted to protect the intellectial property of the developer. The developer decided to encrypt the codes to piracy or any form of unauthorized duplication, distribution, or use of this bot. 
+
+**Q: I don't trust any script or codes that I can't read. ** 
+A: That's fine, you are not being forced to use this bot. 
+
+**Q: I want the unencrypted version of the bot.  ** 
+A: That is possible as long as you will buy the unencrypted version which is for sale. 
+
+**Q: Does the bot guarantee my absolute win in the game?  ** 
+A: No. The bot winning percentage is from 45%-66% only. Playing manually still the best way to win. Remember that the bot win percentage only relies on the data you feed to it and the cards you have. The bot don't do miracle unfortunately. 
