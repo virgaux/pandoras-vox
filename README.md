@@ -103,5 +103,5 @@ Check the License for more details.
 - **Q: Can I resell this bot to others?** 
 - A: Yes, as long as you purchased the bot because, technically speaking, It is your already. 
 
-- **Q: My question is not here. whom should I contact? ** 
+- **Q: My question is not here. whom should I contact?** 
 - A: Visit the [discord](https://discord.gg/ADAdMfug) if you have more question. I will try to answer your question as much as I can. 
