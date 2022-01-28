@@ -80,7 +80,7 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)*
 Check the License for more details. 
 
 - **Q: Why the codes/scripts are encrypted? Is the developer hiding something?** 
-- A: This bot codes are encrypted to protect the intellectial property of the developer. The developer decided to encrypt the codes to piracy or any form of unauthorized duplication, distribution, or use of this bot. 
+- A: The developer decided to encrypt the codes to prevent piracy or any form of unauthorized duplication, distribution, or use of this bot. 
 
 - **Q: I don't trust any script or codes that I can't read.** 
 - A: That's fine, you are not being forced to use this bot. 
