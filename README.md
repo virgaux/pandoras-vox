@@ -66,10 +66,10 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 
 ## Questions
 - **Q: Is my account protected?** 
-- A: Yes, your account protected as there are no malicious content of this bot. 
+- A: Yes, your account protected as there are no malicious content on this bot. 
 
 - **Q: Will my account can be hacked?** 
-- A: For this bot, No. This bot was program not to send out any information of the user. However, if you let someone to tinker your bot, most likely they can put a hack on it. 
+- A: For this bot, No. This bot was programmed not to send out any information of the user. However, if you let someone to tinker your bot, most likely they can put a hack on it, so be careful.
 
 - **Q: If every I experience any loss of asset from the game, will the developer liable for my loss?** 
 - A: No. As per license of this bot:
@@ -90,3 +90,18 @@ Check the License for more details.
 
 - **Q: Does the bot guarantee my absolute win in the game?** 
 - A: No. The bot winning percentage is from 45%-66% only. Playing manually still the best way to win. Remember that the bot win percentage only relies on the data you feed to it and the cards you have. The bot don't do miracle unfortunately. 
+
+- **Q: Why I can't use this bot to play the game?** 
+- A: This repository only constains the installer of the actual bot that you can use in the game. 
+
+- **Q: What is that keycode you referring above?** 
+- A: The keycode is your private key for you to use the bot. Without it, you can't install or use the actual bot. 
+
+- **Q: Can someone I know can use my keycode?** 
+- Yes and no. Yes, if you purchased the whole bot and share the keycode to them. And no, if you only have the subscription access as the only usernames registered can be be used for this bot. 
+
+- **Q: Can I resell this bot to others?** 
+- A: Yes, as long as you purchased the bot because, technically speaking, It is your already. 
+
+- **Q: My question is not here. whom should I contact? ** 
+- A: Visit the [discord](https://discord.gg/ADAdMfug) if you have more question. I will try to answer your question as much as I can. 
