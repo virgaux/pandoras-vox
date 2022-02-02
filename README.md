@@ -61,6 +61,9 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
  
 - Done! 
 
+## Specs Requirements:
+- RAM should be atleast 4gb and up. Minimum requirements is 2GB ram. 
+
 ## How to purchase?
 - Please message me in [discord](https://discord.gg/ADAdMfug).
 
