@@ -18,6 +18,14 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 - Special team configured on a certain mana where you can design the team composition you like the bot to use (You can choose, which summoner and monster). 
 - Auto update of cards details from splinterlands whenever there are new cards release.
 - One click install, run, and update for bot. 
+- **NO DOWNTIME SINCE THERE IS A LOCAL HISTORY, 24/7 botting is real!**
+- Highly customizable based on how the user want how the bot plays. 
+- Have an access on your local history cards statistics. You will know which cards to rent/buy for your bot to perform better!
+
+![Capture](https://user-images.githubusercontent.com/89733547/152325385-0da533fb-a5de-4e84-9446-d705cd1c2b63.PNG)
+
+
+
 
 
 
@@ -116,4 +124,4 @@ Check the License for more details.
 - A: I believe no and depends on what you really need. There are some limitation of this bot but the Developer is working hard to improve it more. This bot was created not to exploit the game but to help those people to play thier accounts automatically.
 
 - **Q: If I buy this bot, is my profit guaranteed?**
-- A: That still depends on your accounts. The better the card collections and data you have, the higher the percentage you win per game. Again, this bot can't do miracles. 
+- A: That still depends on your accounts. The better the card collections and data you have, the higher the percentage you win per game. The developer make sure you will get 49%- 65% win all the time. But again, this bot can't do miracles that you will top the leaderboard without using good cards and good data. 
