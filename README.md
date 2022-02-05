@@ -35,7 +35,7 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 - MultiThreading (can play 2-3 accounts at the same time).
 
 ## Support / Community:
-[Discord](https://discord.gg/ADAdMfug)
+[Discord](https://discord.gg/6V9yZ4KN)
 
 ## How to install in Windows:
 - Download and install [NodeJs](https://nodejs.org/it/download/)
