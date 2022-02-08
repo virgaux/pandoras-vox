@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "----------------------------------------------------------"
 echo "       Welcome to Pandoras Vox created by Virgaux."
-echo "  Join the discord server https://discord.gg/ADAdMfug"
+echo "  Join the discord server https://discord.gg/6V9yZ4KN"
 echo "           Close this window to stop the bot"
 echo "----------------------------------------------------------"
 if [[ -d  "./node_modules" ]]
