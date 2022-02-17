@@ -47,7 +47,7 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 ## How to install in Linux (Ubuntu)
 
 **Installing chromium browser**
-- Open terminal and type `sudo apt-get chromium-browser`
+- Open terminal and type `sudo apt-get install chromium-browser`
 
 **Installing Nodejs and npm**
 - Install Nodejs by typing `curl -sL https://deb.nodesource.com/setup_17.x | sudo -E bash -` 
