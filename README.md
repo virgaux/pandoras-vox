@@ -72,6 +72,15 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 ## Specs Requirements:
 - RAM should be atleast 4gb and up. Minimum requirements is 2GB ram. 
 
+## Troubleshooting: 
+
+
+![linux error](https://user-images.githubusercontent.com/89733547/154525141-5b60790d-8967-4901-aee3-63725c8948a4.PNG)
+
+
+- If you having this kind of error for linux type the following in the terminal 
+`sudo apt-get install -y gconf-service libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 ca-certificates fonts-liberation libappindicator1 libnss3 lsb-release xdg-utils wget libgbm-dev`
+
 ## How to purchase?
 - Please message me in [discord](https://discord.gg/ADAdMfug).
 
