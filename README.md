@@ -39,6 +39,9 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 - transfer of asset bot.
 - Raijin mode (fast, no fancy display, just pure simple battle run per account). 
 
+## System Requirements: 
+- **1 instance:** recommended : atleast 4Gb of RAM 
+- **2 instance:** recommended : atleast 8Gb of RAM 
 
 ## Support / Community:
 [Discord](https://discord.gg/UfMfTj2zb8)
