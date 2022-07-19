@@ -6,7 +6,11 @@ echo            Close this window to stop the bot
 echo ----------------------------------------------------------
 pause. >nul | echo. Please press anything to continue the installation.
 echo.
-
+echo Installing NodeJS and Git. Please wait.
+call winget install OpenJS.NodeJS
+call npm install -g npm@latest
+call winget install --id Git.Git -e --source winget
+echo.
 if exist node_modules (
   call node index.js
 ) else (
