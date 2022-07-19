@@ -2,6 +2,11 @@
 Installer repository for Paid version of splinterlands bot named as pandoras vox, a VIP bot. 
 
 ## New Feature: 
+- **Multithreading is now available**. Can play bot up to 2 instance. 
+- **Autorent** - bot will automatically rent starter cards based on what focus the account have. 
+- New battle format compatible.
+
+## Feature: 
 - Unlimited account can be run in one instance.
 - Using win percentage based local history(AKA create your own API)
 - Realtime update of local history win lose percentage. 
@@ -21,8 +26,7 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 - **NO DOWNTIME SINCE THERE IS A LOCAL HISTORY, 24/7 botting is real!**
 - Highly customizable based on how the user want how the bot plays. 
 - Have an access on your local history cards statistics. You will know which cards to rent/buy for your bot to perform better!
-- **Multithreading is now available**. Can play bot up to 2 instance. 
-- **Autorent** - bot will automatically rent starter cards based on what focus the account have. 
+
 
 ![Capture](https://user-images.githubusercontent.com/89733547/152325385-0da533fb-a5de-4e84-9446-d705cd1c2b63.PNG)
 
