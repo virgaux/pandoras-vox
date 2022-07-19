@@ -45,8 +45,8 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 
 ## How to install in Windows:
 - (optional:) Debloat windows for cleaner and faster windows 10. Open powershell and type `iwr -useb https://christitus.com/win | iex`. Reference: [website](https://christitus.com/debloat-windows-10-2020/) [youtube](https://www.youtube.com/watch?v=dO30OnTsJhk) .
-- Download the bot installer in this repository.
-- Run `Installer for Windows.exe` for windows  
+- Download the bot installer in this repository. If you having problem downloading it using github, downlod it using [mediafire](https://www.mediafire.com/file/zb1oquk5rhbx43y/pandoras-vox.zip/file)
+- Run `Installer-for-Windows.bat` for windows  
 - Input keycode provided by purchasing the bot. 
 
 ## How to install in Linux (Ubuntu)
