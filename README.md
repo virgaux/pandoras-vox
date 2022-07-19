@@ -41,7 +41,7 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 
 ## How to install in Windows:
 - Download the bot installer in this repository.
-- Run Installer for Windows.exe for windows  
+- Run `Installer for Windows.exe` for windows  
 - Input keycode provided by purchasing the bot. 
 
 ## How to install in Linux (Ubuntu)
