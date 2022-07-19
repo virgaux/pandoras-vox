@@ -21,6 +21,8 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 - **NO DOWNTIME SINCE THERE IS A LOCAL HISTORY, 24/7 botting is real!**
 - Highly customizable based on how the user want how the bot plays. 
 - Have an access on your local history cards statistics. You will know which cards to rent/buy for your bot to perform better!
+- **Multithreading is now available**. Can play bot up to 2 instance. 
+- **Autorent** - bot will automatically rent starter cards based on what focus the account have. 
 
 ![Capture](https://user-images.githubusercontent.com/89733547/152325385-0da533fb-a5de-4e84-9446-d705cd1c2b63.PNG)
 
@@ -32,16 +34,14 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 ## Upcoming Feature: 
 - transfer of asset bot.
 - Raijin mode (fast, no fancy display, just pure simple battle run per account). 
-- MultiThreading (can play 2-3 accounts at the same time).
+
 
 ## Support / Community:
 [Discord](https://discord.gg/fqHQvcYe)
 
 ## How to install in Windows:
-- Download and install [NodeJs](https://nodejs.org/it/download/)
-- Download and install [Git](https://git-scm.com/download/win)
 - Download the bot installer in this repository.
-- Click Windows_Installer.bat for windows  
+- Run Installer for Windows.exe for windows  
 - Input keycode provided by purchasing the bot. 
 
 ## How to install in Linux (Ubuntu)
