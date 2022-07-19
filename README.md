@@ -37,7 +37,7 @@ Installer repository for Paid version of splinterlands bot named as pandoras vox
 
 
 ## Support / Community:
-[Discord](https://discord.gg/fqHQvcYe)
+[Discord](https://discord.gg/UfMfTj2zb8)
 
 ## How to install in Windows:
 - Download the bot installer in this repository.
