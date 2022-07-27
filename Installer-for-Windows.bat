@@ -1,15 +1,34 @@
 @echo off
 echo ----------------------------------------------------------
 echo        Welcome to Pandoras Vox created by Virgaux.
-echo   Join the discord server https://discord.gg/ADAdMfug
+echo   Join the discord server https://discord.gg/UfMfTj2zb8
 echo            Close this window to stop the bot
 echo ----------------------------------------------------------
 pause. >nul | echo. Please press anything to continue the installation.
 echo.
 echo Installing NodeJS and Git. Please wait.
-call winget.exe install OpenJS.NodeJS
+call winget install OpenJS.NodeJS
+if %ERRORLEVEL% NEQ 0 goto installChoco
 call npm install -g npm@latest
-call winget.exe install --id Git.Git -e --source winget
+call winget install --id Git.Git -e --source winget
+goto installIndex
+echo.
+
+:installChoco
+echo.
+echo Unable to install NodeJs using winget. Attemping install necessary application using chocolatey. Please Wait.
+call cmd /c @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "[System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+call Powershell.exe -Command "& {Start-Process Powershell.exe 'choco install -y powershell nodejs git' -Verb RunAs}"
+call npm install -g npm@latest 
+echo Installation of applications complete!
+echo.
+:installIndex
+cls
+echo ----------------------------------------------------------
+echo        Welcome to Pandoras Vox created by Virgaux.
+echo   Join the discord server https://discord.gg/UfMfTj2zb8
+echo            Close this window to stop the bot
+echo ----------------------------------------------------------
 echo.
 if exist node_modules (
   call node index.js
