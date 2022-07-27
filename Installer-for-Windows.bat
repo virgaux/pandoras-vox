@@ -18,7 +18,7 @@ echo.
 echo.
 echo Unable to install NodeJs using winget. Attemping install necessary application using chocolatey. Please Wait.
 call cmd /c @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "[System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
-call Powershell.exe -Command "& {Start-Process Powershell.exe 'choco install -y powershell nodejs git' -Verb RunAs}"
+call Powershell.exe -Command "& {Start-Process Powershell.exe 'choco install -y powershell git nodejs' -Verb RunAs}"
 call npm install -g npm@latest 
 echo Installation of applications complete!
 echo.
